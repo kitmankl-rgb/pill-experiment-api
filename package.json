@@ -7,7 +7,7 @@
     "start": "node api.js"
   },
   "engines": {
-    "node": "18.16.0"
+    "node": "24.x"
   },
   "license": "MIT"
 }
