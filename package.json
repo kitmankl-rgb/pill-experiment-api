@@ -1,0 +1,13 @@
+{
+  "name": "pill-experiment-api",
+  "version": "1.0.0",
+  "description": "红蓝药丸社会实验后端API",
+  "main": "api.js",
+  "scripts": {
+    "start": "node api.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "license": "MIT"
+}
